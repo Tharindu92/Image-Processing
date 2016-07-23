@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2013\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe.config
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\bin\Debug\ImageProcessing.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.exe
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.pdb
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Form2.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Information.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.RunLength.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Huffman.resources
+C:\Users\USER\Documents\Visual Studio 2013\Projects\ImageProcessing\ImageProcessing\obj\Debug\ImageProcessing.Mask.resources
